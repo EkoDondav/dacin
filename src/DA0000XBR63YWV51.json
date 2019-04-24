@@ -1,0 +1,210 @@
+{
+  "token_definition": {
+    "token_name": "Zcash",
+    "dacin": "DA0000XBR63YWV51",
+    "token_symbol": "ZEC",
+    "token_symbol_other": "XZC",
+    "website_url": "https://z.cash/",
+    "underlying_platform": "ZCash",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Currency Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocurrency",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Currency|Currency,Privacy",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "Like Bitcoin, Zcash transaction data is posted to a public blockchain; but unlike Bitcoin, Zcash ensures your personal and transaction data remain completely confidential. Zero-knowledge proofs allow transactions to be verified without revealing the sender, receiver or transaction amount. Selective disclosure features within Zcash allow a user to share some transaction details, for purposes of compliance or audit. Zcash also allows for transparent transactions, to accommodate for wallets and exchanges that don’t support private transactions.",
+    "token_short_desc": "-",
+    "token_labels": "Payments, Privacy"
+  },
+  "token_attributes": {
+    "token_family": "Bitcoin",
+    "token_family_member": "Child",
+    "token_type": "Native",
+    "is_forked_token": "TRUE",
+    "forked_type": "Code",
+    "forked_from": "Bitcoin",
+    "forked_by": "-",
+    "consensus_mechanism": "Proof-of-Work",
+    "transaction_identity": "Anonymous (Opt)",
+    "permission_type": "Public",
+    "platform_governance": "Decentralized",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "TRUE",
+    "supply_model": "fully algorithmic",
+    "genesis_funding_event": "FALSE",
+    "smart_contract_support": "FALSE",
+    "genesis_block_created": "28/10/2016 07:56:00",
+    "min_token_unit": "-",
+    "min_token_decimals": "8",
+    "license_type": "-",
+    "explorer_url": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA0000XBR63YWV51"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00KTQ8BW8"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XZC"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "single block",
+    "ongoing_emission_model": "algorithmic",
+    "ongoing_emission": "TRUE",
+    "issued_supply": "-",
+    "max_supply": "21000000",
+    "locked_in_supply": "0",
+    "circulating_supply": "-",
+    "final_emission_date": "2040",
+    "inflation_model": "Disinflationary",
+    "emission_rate": "Smooth Decay",
+    "supply_cap": "Yes",
+    "initial_block_reward": "12.5",
+    "current_block_reward": "12.5",
+    "reward_change_period": "840000",
+    "reward_change_factor": "-50 %",
+    "next_reward_change_height": "840000",
+    "next_reward_change_date": "43758",
+    "reward_change_freq": "48 months",
+    "last_reward_change_date": "-"
+  },
+  "mining_details": {
+    "hashing_mode": "Single",
+    "hashing_algorithm": "Equihash",
+    "avg_block_time": "150",
+    "avg_block_size": "2",
+    "difficulty_adjustment_period": "1",
+    "block_reward_dist": "80%:Miner, 20%:Founders",
+    "mining_chips": "CPU|GPU"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Zcash",
+    "white_paper_url": "https://github.com/zcash/zips/blob/master/protocol/protocol.pdf",
+    "road_map_url": "https://z.cash/support/schedule.html",
+    "repository_url": "https://github.com/zcash/zcash",
+    "core_repository_url": "https://github.com/zcash/zcash"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "https://twitter.com/zcashco"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "-"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "Zerocoin Electric Coin Company",
+      "entity_role": "Creator",
+      "legal_name": "Zerocoin Electric Coin Company LLC",
+      "legal_address": "-",
+      "legal_jurist_country": "Delaware",
+      "legal_jurist_region": "-",
+      "legal_form_code": "Limited Liability company",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "N/A",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

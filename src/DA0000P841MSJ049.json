@@ -1,0 +1,211 @@
+{
+  "token_definition": {
+    "token_name": "Litecoin",
+    "dacin": "DA0000P841MSJ049",
+    "token_symbol": "LTC",
+    "token_symbol_other": "XLC",
+    "website_url": "https://litecoin.org/",
+    "underlying_platform": "Litecoin",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Currency Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocurrency",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Currency|Currency",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin.",
+    "token_short_desc": "The cryptocurrency for payments",
+    "token_labels": "Payments"
+  },
+  "token_attributes": {
+    "token_family": "Bitcoin",
+    "token_family_member": "Child",
+    "token_type": "Native",
+    "is_forked_token": "TRUE",
+    "forked_type": "Code",
+    "forked_from": "Bitcoin",
+    "forked_by": "-",
+    "consensus_mechanism": "Proof-of-Work",
+    "transaction_identity": "Pseudonymous",
+    "permission_type": "Public",
+    "platform_governance": "Decentralized",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "TRUE",
+    "supply_model": "fully algorithmic",
+    "genesis_funding_event": "FALSE",
+    "smart_contract_support": "FALSE",
+    "genesis_block_created": "07/10/2011 07:31:05",
+    "min_token_unit": "-",
+    "min_token_decimals": "8",
+    "license_type": "MIT License",
+    "explorer_url": [
+      "https://blockchair.com/litecoin",
+      "https://chainz.cryptoid.info/ltc/",
+      "https://litecoinblockexplorer.net"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA0000P841MSJ049"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00J3MKMW0"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XLC"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "bulk block",
+    "ongoing_emission_model": "algorithmic",
+    "ongoing_emission": "TRUE",
+    "issued_supply": "0",
+    "max_supply": "84000000",
+    "locked_in_supply": "0",
+    "circulating_supply": "-",
+    "final_emission_date": "-",
+    "inflation_model": "Disinflationary",
+    "emission_rate": "Smooth Decay",
+    "supply_cap": "Yes",
+    "initial_block_reward": "50",
+    "current_block_reward": "25",
+    "reward_change_period": "840000",
+    "reward_change_factor": "-50 %",
+    "next_reward_change_height": "1680000",
+    "next_reward_change_date": "43696",
+    "reward_change_freq": "48 months",
+    "last_reward_change_date": "43692"
+  },
+  "mining_details": {
+    "hashing_mode": "Single",
+    "hashing_algorithm": "Scrypt",
+    "avg_block_time": "150",
+    "avg_block_size": "-",
+    "difficulty_adjustment_period": "2016",
+    "block_reward_dist": "100%:Miner",
+    "mining_chips": "CPU|GPU"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Litecoin",
+    "white_paper_url": "N/A",
+    "road_map_url": "N/A",
+    "repository_url": "https://github.com/litecoin-project/",
+    "core_repository_url": "https://github.com/litecoin-project/"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "https://twitter.com/litecoin"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "https://telegram.me/litecoin"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "Litecoin Foundation",
+      "entity_role": "Non-Profit Org promoting Litecoin",
+      "entity_website_url": "https://litecoin-foundation.org/",
+      "legal_name": "Litecoin Foundation Ltd",
+      "legal_address": "111 North Bridge Road # 08-19 Peninsula Plaza, Singapore 179098",
+      "legal_jurist_country": "SG|Singapore",
+      "legal_jurist_region": "-",
+      "legal_form_code": "LWXI",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "N/A",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

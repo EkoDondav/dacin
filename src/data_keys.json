@@ -1,0 +1,510 @@
+{
+  "categories": [
+    "token_definition",
+    "token_classification",
+    "token_details",
+    "token_attributes",
+    "token_identifier",
+    "supply_details",
+    "mining_details",
+    "fork_details",
+    "project_details",
+    "project_members",
+    "project_community",
+    "entity_data",
+    "funding_details",
+    "exchange_listing"
+  ],
+  "keys": {
+    "token_definition": {
+      "title": "Token Definition",
+      "names": [
+        [
+          "token_name",
+          "Name"
+        ],
+        [
+          "dacin",
+          "DACIN"
+        ],
+        [
+          "token_symbol",
+          "Symbol"
+        ],
+        [
+          "token_symbol_other",
+          "Other Symbols"
+        ],
+        [
+          "website_url",
+          "Website"
+        ],
+        [
+          "underlying_platform",
+          "Platform"
+        ],
+        [
+          "token_standard",
+          "Token Standard"
+        ],
+        [
+          "token_address",
+          "Token Address"
+        ]
+      ]
+    },
+    "token_classification": {
+      "title": "Token Classification",
+      "names": [
+        [
+          "classification_org",
+          "Classifier Org"
+        ],
+        [
+          "classification_type",
+          "Classification Type"
+        ],
+        [
+          "classification",
+          "Classification"
+        ],
+        [
+          "sub_classification",
+          "Sub Classification"
+        ]
+      ]
+    },
+    "token_details": {
+      "title": "Token Details",
+      "names": [
+        [
+          "token_description",
+          "Description"
+        ],
+        [
+          "token_short_desc",
+          "Short Description"
+        ],
+        [
+          "token_labels",
+          "Labels"
+        ]
+      ]
+    },
+    "token_attributes": {
+      "title": "Token Attributes",
+      "names": [
+        [
+          "token_family",
+          "Token Family"
+        ],
+        [
+          "token_family_member",
+          "Token Family Member"
+        ],
+        [
+          "token_type",
+          "Token Type"
+        ],
+        [
+          "is_forked_token",
+          "Is Forked Chain"
+        ],
+        [
+          "forked_type",
+          "Fork Type"
+        ],
+        [
+          "forked_from",
+          "Forked From"
+        ],
+        [
+          "forked_by",
+          "Forked By"
+        ],
+        [
+          "consensus_mechanism",
+          "Consensus Method"
+        ],
+        [
+          "transaction_identity",
+          "Transaction Identity"
+        ],
+        [
+          "permission_type",
+          "Permissioning"
+        ],
+        [
+          "platform_governance",
+          "Platform Governance"
+        ],
+        [
+          "is_fungible_token",
+          "Fungible"
+        ],
+        [
+          "is_mineable",
+          "Mineable"
+        ],
+        [
+          "supply_model",
+          "Supply Model"
+        ],
+        [
+          "genesis_funding_event",
+          "Genesis Funding Event"
+        ],
+        [
+          "smart_contract_support",
+          "Smart Contract Support"
+        ],
+        [
+          "genesis_block_created",
+          "Genesis Block Created"
+        ],
+        [
+          "min_token_unit",
+          "Min Token Unit"
+        ],
+        [
+          "min_token_decimals",
+          "Min Token Decimals"
+        ],
+        [
+          "license_type",
+          "License"
+        ],
+        [
+          "explorer_url",
+          "Explorer"
+        ]
+      ]
+    },
+    "token_identifier": {
+      "title": "Token Identifier",
+      "names": [
+        [
+          "identifier_org",
+          "Identifier Org"
+        ],
+        [
+          "identifier_name",
+          "Identifier Name"
+        ],
+        [
+          "identifer_code",
+          "Identifier Code"
+        ]
+      ]
+    },
+    "supply_details": {
+      "title": "Supply Details",
+      "names": [
+        [
+          "genesis_emission_model",
+          "Genesis Emission Model"
+        ],
+        [
+          "ongoing_emission_model",
+          "Ongoing Emission Model"
+        ],
+        [
+          "ongoing_emission",
+          "Ongoing Emission"
+        ],
+        [
+          "issued_supply",
+          "Issued / Pre-Mined Supply"
+        ],
+        [
+          "max_supply",
+          "Maximum Supply"
+        ],
+        [
+          "locked_in_supply",
+          "Locked In Supply"
+        ],
+        [
+          "circulating_supply",
+          "Circulating Supply"
+        ],
+        [
+          "final_emission_date",
+          "Final Emission Date"
+        ],
+        [
+          "inflation_model",
+          "Inflation Rate Model"
+        ],
+        [
+          "emission_rate",
+          "Emission Mechanics"
+        ],
+        [
+          "supply_cap",
+          "Supply Cap"
+        ],
+        [
+          "initial_block_reward",
+          "Initial Block Reward (coins)"
+        ],
+        [
+          "current_block_reward",
+          "Current Block Reward (coins)"
+        ],
+        [
+          "reward_change_period",
+          "Reward Change Freq (blocks)"
+        ],
+        [
+          "reward_change_factor",
+          "Reward Change Factor (%)"
+        ],
+        [
+          "next_reward_change_height",
+          "Next Reward Change Height (blocks)"
+        ],
+        [
+          "next_reward_change_date",
+          "Next Reward Change Date"
+        ],
+        [
+          "reward_change_freq",
+          "Reward Change Freq (Years)"
+        ],
+        [
+          "last_reward_change_date",
+          "Last Reward Change Date"
+        ]
+      ]
+    },
+    "mining_details": {
+      "title": "Mining Details",
+      "names": [
+        [
+          "hashing_mode",
+          "Hashing Mode"
+        ],
+        [
+          "hashing_algorithm",
+          "Hashing Algorithm"
+        ],
+        [
+          "avg_block_time",
+          "Avg Block Time (sec)"
+        ],
+        [
+          "avg_block_size",
+          "Avg Block Size (Mb)"
+        ],
+        [
+          "difficulty_adjustment_period",
+          "Difficulty Adjust Period (Blocks)"
+        ],
+        [
+          "block_reward_dist",
+          "Block Reward Distribution"
+        ],
+        [
+          "mining_chips",
+          "Mining Chips"
+        ]
+      ]
+    },
+    "fork_details": {
+      "title": "Fork Details",
+      "names": [
+        [
+          "fork_date",
+          "Fork Date"
+        ],
+        [
+          "fork_ratio",
+          "Fork Ratio"
+        ],
+        [
+          "forked_block_height",
+          "Forked Block Height"
+        ],
+        [
+          "fork_reason",
+          "Fork Reason"
+        ]
+      ]
+    },
+    "project_details": {
+      "title": "Project Details",
+      "names": [
+        [
+          "project_name",
+          "Project Name"
+        ],
+        [
+          "white_paper_url",
+          "White Paper"
+        ],
+        [
+          "road_map_url",
+          "Road Map"
+        ],
+        [
+          "repository_url",
+          "Asset Source Code"
+        ],
+        [
+          "core_repository_url",
+          "Asset Source Code Core"
+        ]
+      ]
+    },
+    "project_members": {
+      "title": "Project Members",
+      "names": [
+        [
+          "member_name",
+          "Name"
+        ],
+        [
+          "member_role",
+          "Role"
+        ],
+        [
+          "member_account_type",
+          "Account Type"
+        ],
+        [
+          "member_account_url",
+          "Account URL"
+        ]
+      ]
+    },
+    "project_community": {
+      "title": "Project Community",
+      "names": [
+        [
+          "community_account_type",
+          "Account Type"
+        ],
+        [
+          "community_account_url",
+          "Account URL"
+        ]
+      ]
+    },
+    "entity_data": {
+      "title": "Entity Details",
+      "names": [
+        [
+          "entity_name",
+          "Entity Name"
+        ],
+        [
+          "entity_role",
+          "Entity Role"
+        ],
+        [
+          "entity_website_url",
+          "Entity Website"
+        ],
+        [
+          "legal_name",
+          "Legal Name"
+        ],
+        [
+          "legal_address",
+          "Legal Address"
+        ],
+        [
+          "legal_jurist_country",
+          "Legal Juristiction Country (ISO)"
+        ],
+        [
+          "legal_jurist_region",
+          "Legal Juristiction Region (ISO)"
+        ],
+        [
+          "legal_form_code",
+          "Legal Form Code (ISO)"
+        ],
+        [
+          "global_lei",
+          "Global LEI"
+        ],
+        [
+          "legal_direct_parent_name",
+          "Legal Direct Parent"
+        ],
+        [
+          "legal_ultimate_parent_name",
+          "Legal Ultimate Parent"
+        ]
+      ]
+    },
+    "funding_details": {
+      "title": "Funding Details",
+      "names": [
+        [
+          "funding_type",
+          "Funding Type"
+        ],
+        [
+          "start_date",
+          "Start Date"
+        ],
+        [
+          "end_date",
+          "End Date"
+        ],
+        [
+          "num_tranches",
+          "Number Tranches"
+        ],
+        [
+          "funding_currency",
+          "Funding Currency"
+        ],
+        [
+          "funding_amount",
+          "Funding Raised"
+        ],
+        [
+          "base_currency",
+          "Base Currency"
+        ],
+        [
+          "base_currency_amount",
+          "Base Currency Raised"
+        ],
+        [
+          "allocation_group",
+          "Allocation Group"
+        ],
+        [
+          "allocation_percent",
+          "Allocation Percent"
+        ]
+      ]
+    },
+    "exchange_listing": {
+      "title": "Exchange Listings",
+      "names": [
+        [
+          "exchange_name",
+          "Name"
+        ],
+        [
+          "status",
+          "Status"
+        ],
+        [
+          "exchange_code",
+          "Code"
+        ],
+        [
+          "exchange_code_api",
+          "API code"
+        ]
+      ]
+    }
+  }
+}

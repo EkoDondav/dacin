@@ -1,0 +1,211 @@
+{
+  "token_definition": {
+    "token_name": "Bitcoin Cash",
+    "dacin": "DA00007XQRD7X838",
+    "token_symbol": "BCH",
+    "token_symbol_other": "XBN|BCHABC",
+    "website_url": "https://www.bitcoincash.org/",
+    "underlying_platform": "Bitcoin Cash",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Currency Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocurrency",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Currency|Currency",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "Bitcoin Cash is a peer-to-peer electronic cash system. It's a permissionless, decentralized cryptocurrency that requires no trusted third parties and no central bank.",
+    "token_short_desc": "Fast, Reliable, Low Fees, Simple, Stable, Secure",
+    "token_labels": "Payments"
+  },
+  "token_attributes": {
+    "token_family": "Bitcoin",
+    "token_family_member": "Child",
+    "token_type": "Native",
+    "is_forked_token": "TRUE",
+    "forked_type": "Hard",
+    "forked_from": "Bitcoin",
+    "forked_by": "Bitcoin ABC, Bitcoin SV",
+    "consensus_mechanism": "Proof-of-Work",
+    "transaction_identity": "Pseudonymous",
+    "permission_type": "Public",
+    "platform_governance": "Decentralized",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "TRUE",
+    "supply_model": "fully algorithmic",
+    "genesis_funding_event": "FALSE",
+    "smart_contract_support": "FALSE",
+    "genesis_block_created": "03/01/2009 18:15:05",
+    "min_token_unit": "-",
+    "min_token_decimals": "8",
+    "license_type": "MIT License",
+    "explorer_url": [
+      "https://blockchair.com/bitcoin-cash/blocks",
+      "-",
+      "-"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA00007XQRD7X838"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00J3NJYQ1"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XBN"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "single block fork",
+    "ongoing_emission_model": "algorithmic",
+    "ongoing_emission": "TRUE",
+    "issued_supply": "-",
+    "max_supply": "21000000",
+    "locked_in_supply": "0",
+    "circulating_supply": "-",
+    "final_emission_date": "2040",
+    "inflation_model": "Disinflationary",
+    "emission_rate": "Smooth Decay",
+    "supply_cap": "Yes",
+    "initial_block_reward": "50",
+    "current_block_reward": "12.5",
+    "reward_change_period": "210000",
+    "reward_change_factor": "-50 %",
+    "next_reward_change_height": "630000",
+    "next_reward_change_date": "43575",
+    "reward_change_freq": "48 months",
+    "last_reward_change_date": "43662"
+  },
+  "mining_details": {
+    "hashing_mode": "Single",
+    "hashing_algorithm": "SHA-256",
+    "avg_block_time": "600",
+    "avg_block_size": "8",
+    "difficulty_adjustment_period": "144",
+    "block_reward_dist": "100%:Miner",
+    "mining_chips": "CPU|GPU|ASIC"
+  },
+  "fork_details": {
+    "fork_date": "01/08/2017",
+    "fork_ratio": "1BCH = 1BTC",
+    "forked_block_height": "478558/478559",
+    "fork_reason": "This hard fork is mainly due to the 1MB block size, which Bitcoin Cash raised it to 8MB block size"
+  },
+  "project_details": {
+    "project_name": "Bitcoin Cash",
+    "white_paper_url": "https://www.bitcoincash.org/bitcoin.pdf",
+    "road_map_url": "https://www.bitcoincash.org/roadmap.html",
+    "repository_url": "https://github.com/bitcoincashorg/",
+    "core_repository_url": "https://github.com/bitcoincashorg/"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "https://twitter.com/BitcoinCashA"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "https://t.me/BitcoinCashUpdates"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "Bitcoin Cash",
+      "entity_role": "Maintainance of BCH Code",
+      "entity_website_url": "https://www.bitcoincash.org/index.html",
+      "legal_name": "NONE",
+      "legal_address": "-",
+      "legal_jurist_country": "NONE",
+      "legal_jurist_region": "-",
+      "legal_form_code": "NONE",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "N/A",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

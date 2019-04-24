@@ -1,0 +1,211 @@
+{
+  "token_definition": {
+    "token_name": "Dash",
+    "dacin": "DA000036RZ620752",
+    "token_symbol": "DASH",
+    "token_symbol_other": "XDH",
+    "website_url": "https://www.dash.org/",
+    "underlying_platform": "Dash",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Currency Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocurrency",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Currency|Currency",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "Dash is a digital currency that enables anyone, anywhere in the world to make quick, easy and cheap payments at any time without going through a central authority. Based on a decentralized peer-to-peer network, and secured by strong cryptography, Dash offers a safe and user-friendly payment method without barriers. Dash is portable, inexpensive, divisible and fast digital cash for both the internet and everyday life.",
+    "token_short_desc": "Instant transactions and micro-fees. Any amount, anytime, anywhere.",
+    "token_labels": "Payments, Privacy"
+  },
+  "token_attributes": {
+    "token_family": "Bitcoin",
+    "token_family_member": "Child",
+    "token_type": "Native",
+    "is_forked_token": "TRUE",
+    "forked_type": "Code",
+    "forked_from": "Bitcoin",
+    "forked_by": "-",
+    "consensus_mechanism": "Proof-of-Work",
+    "transaction_identity": "Anonymous (Opt)",
+    "permission_type": "Public",
+    "platform_governance": "On Chain Governance",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "TRUE",
+    "supply_model": "fully algorithmic",
+    "genesis_funding_event": "FALSE",
+    "smart_contract_support": "FALSE",
+    "genesis_block_created": "19/01/2014 02:40:18",
+    "min_token_unit": "-",
+    "min_token_decimals": "8",
+    "license_type": "-",
+    "explorer_url": [
+      "https://blockchair.com/dash",
+      "https://chainz.cryptoid.info/dash/",
+      "https://dashblockexplorer.com"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA000036RZ620752"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00J3NHTT1"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XDH"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "single block",
+    "ongoing_emission_model": "algorithmic",
+    "ongoing_emission": "TRUE",
+    "issued_supply": "-",
+    "max_supply": "18900000",
+    "locked_in_supply": "-",
+    "circulating_supply": "-",
+    "final_emission_date": "2150",
+    "inflation_model": "Disinflationary",
+    "emission_rate": "Smooth Decay",
+    "supply_cap": "Yes",
+    "initial_block_reward": "-",
+    "current_block_reward": "-",
+    "reward_change_period": "210240",
+    "reward_change_factor": "-7 %",
+    "next_reward_change_height": "-",
+    "next_reward_change_date": "-",
+    "reward_change_freq": "12 months",
+    "last_reward_change_date": "-"
+  },
+  "mining_details": {
+    "hashing_mode": "Single",
+    "hashing_algorithm": "X-11",
+    "avg_block_time": "150",
+    "avg_block_size": "-",
+    "difficulty_adjustment_period": "1",
+    "block_reward_dist": "45%:Miner,45%:Masternode,10%:Dev",
+    "mining_chips": "CPU|GPU|ASIC"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Dash",
+    "white_paper_url": "https://github.com/dashpay/dash/wiki/Whitepaper",
+    "road_map_url": "https://github.com/dashpay/dash-roadmap",
+    "repository_url": "https://github.com/dashpay/dash",
+    "core_repository_url": "https://github.com/dashpay/dash"
+  },
+  "project_members": [
+    {
+      "member_name": "Ryan Taylor",
+      "member_role": "CEO",
+      "member_account_type": [
+        "Twitter",
+        "-"
+      ],
+      "member_account_url": [
+        "https://twitter.com/RTaylor05",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "https://twitter.com/dashpay"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "https://blog.dash.org/"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "https://www.linkedin.com/company/dash---digitalcash-cryptocurrency-/about/"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "https://t.me/dash_chat"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "The Dash Foundation",
+      "entity_role": "Governing foundation",
+      "entity_website_url": "https://www.dashfoundation.io/",
+      "legal_name": "THE DASH FOUNDATION, INC.",
+      "legal_address": "-",
+      "legal_jurist_country": "Arizona",
+      "legal_jurist_region": "-",
+      "legal_form_code": "Non-profit",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "N/A",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

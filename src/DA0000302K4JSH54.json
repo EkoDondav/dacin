@@ -1,0 +1,209 @@
+{
+  "token_definition": {
+    "token_name": "Ether",
+    "dacin": "DA0000302K4JSH54",
+    "token_symbol": "ETH",
+    "token_symbol_other": "XET",
+    "website_url": "https://www.ethereum.org/",
+    "underlying_platform": "Ethereum",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Platform Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocommodity",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment|Utility",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Infrastructure|Smart Contract Platform",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "-",
+    "token_short_desc": "-",
+    "token_labels": "Decentralized Applications"
+  },
+  "token_attributes": {
+    "token_family": "Ethereum",
+    "token_family_member": "Child",
+    "token_type": "Native",
+    "is_forked_token": "TRUE",
+    "forked_type": "Hard",
+    "forked_from": "Ethereum Classic",
+    "forked_by": "Ethereum Classic",
+    "consensus_mechanism": "Proof-of-Stake",
+    "transaction_identity": "Pseudonymous",
+    "permission_type": "Public",
+    "platform_governance": "Decentralized",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "FALSE",
+    "supply_model": "Mostly Bulk",
+    "genesis_funding_event": "TRUE",
+    "smart_contract_support": "TRUE",
+    "genesis_block_created": "30/07/2015 15:26:13",
+    "min_token_unit": "wei",
+    "min_token_decimals": "18",
+    "license_type": "GPLv3, LGPLv3, MIT",
+    "explorer_url": [
+      "https://blockchair.com/ethereum",
+      "https://etherscan.io",
+      "https://ethplorer.io"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA0000302K4JSH54"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00J3NBWD7"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XET"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "bulk block",
+    "ongoing_emission_model": "algorithmic",
+    "ongoing_emission": "TRUE",
+    "issued_supply": "-",
+    "max_supply": "-",
+    "locked_in_supply": "-",
+    "circulating_supply": "-",
+    "final_emission_date": "-",
+    "inflation_model": "Inflationary",
+    "emission_rate": "Constant",
+    "supply_cap": "No",
+    "initial_block_reward": "5",
+    "current_block_reward": "2",
+    "reward_change_period": "ad-hoc",
+    "next_reward_change_height": "-",
+    "next_reward_change_date": "-",
+    "reward_change_freq": "-",
+    "last_reward_change_date": "43514"
+  },
+  "mining_details": {
+    "hashing_mode": "Single",
+    "hashing_algorithm": "-",
+    "avg_block_time": "15",
+    "avg_block_size": "-",
+    "difficulty_adjustment_period": "-",
+    "block_reward_dist": "-",
+    "mining_chips": "CPU|GPU"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Ethereum",
+    "white_paper_url": "https://github.com/ethereum/wiki/wiki/White-Paper",
+    "road_map_url": "https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/",
+    "repository_url": "https://github.com/ethereum",
+    "core_repository_url": "https://github.com/ethereum"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "https://twitter.com/ethereum"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "-"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "Ethereum Foundation",
+      "entity_role": "Governing Foundation",
+      "entity_website_url": "https://www.ethereum.org/",
+      "legal_name": "Stiftung Ethereum",
+      "legal_address": "Zeughausgasse 7a, 6300 Zug, Switzerland",
+      "legal_jurist_country": "CH|Switzerland",
+      "legal_jurist_region": "Zug",
+      "legal_form_code": "2JZ4",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "ICO",
+    "start_date": "22/07/2014",
+    "end_date": "02/09/2014",
+    "num_tranches": "1",
+    "funding_currency": [
+      "ETH"
+    ],
+    "funding_amount": [
+      "60000000",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "18600000",
+    "allocation_group": [
+      "Foundation",
+      "Developer"
+    ],
+    "allocation_percent": [
+      "3 million ETH",
+      "9 million ETH"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

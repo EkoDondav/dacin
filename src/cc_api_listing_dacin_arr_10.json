@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"dacin":"DA0000V7YQXKW252","id_cc":1,"name":"Bitcoin","symbol":"BTC"},
+    {"dacin":"DA0000302K4JSH54","id_cc":1027,"name":"Ethereum","symbol":"ETH"},
+    {"dacin":"DA00007XQRD7X838","id_cc":1831,"name":"Bitcoin Cash","symbol":"BCH"},
+    {"dacin":"DA0000P841MSJ049","id_cc":2,"name":"Litecoin","symbol":"LTC"},
+    {"dacin":"DA0000ZTP5HV2R39","id_cc":52,"name":"XRP","symbol":"XRP"},
+    {"dacin":"DA0000XBR63YWV51","id_cc":1437,"name":"Zcash","symbol":"ZEC"},
+    {"dacin":"DA0000VBHKNXJ947","id_cc":1321,"name":"Ethereum Classic","symbol":"ETC"},
+    {"dacin":"DA000036RZ620752","id_cc":131,"name":"Dash","symbol":"DASH"},
+    {"dacin":"DA0000LN8VB8RJ44","id_cc":328,"name":"Monero","symbol":"XMR"},
+    {"dacin":"DA0000CSK6WMJD54","id_cc":1684,"name":"Qtum","symbol":"QTUM"}
+ ]
+}

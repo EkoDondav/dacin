@@ -1,0 +1,211 @@
+{
+  "token_definition": {
+    "token_name": "Qtum",
+    "dacin": "DA0000CSK6WMJD54",
+    "token_symbol": "QTUM",
+    "token_symbol_other": "-",
+    "website_url": "https://qtum.org",
+    "underlying_platform": "Qtum",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Platform Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocommodity",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Utility",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Infrastructure|Smart Contract Platform",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "-",
+    "token_short_desc": "-",
+    "token_labels": "-"
+  },
+  "token_attributes": {
+    "token_family": "-",
+    "token_family_member": "-",
+    "token_type": "Native",
+    "is_forked_token": "-",
+    "forked_type": "-",
+    "forked_from": "-",
+    "forked_by": "-",
+    "consensus_mechanism": "-",
+    "transaction_identity": "-",
+    "permission_type": "-",
+    "platform_governance": "-",
+    "is_fungible_token": "-",
+    "is_mineable": "-",
+    "supply_model": "-",
+    "genesis_funding_event": "-",
+    "smart_contract_support": "-",
+    "genesis_block_created": "-",
+    "min_token_unit": "-",
+    "min_token_decimals": "-",
+    "license_type": "-",
+    "explorer_url": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA0000CSK6WMJD54"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "-"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "-"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "-",
+    "ongoing_emission_model": "-",
+    "ongoing_emission": "-",
+    "issued_supply": "-",
+    "max_supply": "-",
+    "locked_in_supply": "-",
+    "circulating_supply": "-",
+    "final_emission_date": "-",
+    "inflation_model": "-",
+    "emission_rate": "-",
+    "supply_cap": "-",
+    "initial_block_reward": "-",
+    "current_block_reward": "-",
+    "reward_change_period": "-",
+    "reward_change_factor": "-",
+    "next_reward_change_height": "-",
+    "next_reward_change_date": "-",
+    "reward_change_freq": "-",
+    "last_reward_change_date": "-"
+  },
+  "mining_details": {
+    "hashing_mode": "-",
+    "hashing_algorithm": "-",
+    "avg_block_time": "-",
+    "avg_block_size": "-",
+    "difficulty_adjustment_period": "-",
+    "block_reward_dist": "-",
+    "mining_chips": "-"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Qtum",
+    "white_paper_url": "https://qtum.org/user/pages/03.tech/01.white-papers/Qtum%20Whitepaper.pdf",
+    "road_map_url": "https://cdn-images-1.medium.com/max/2000/1*dm8qHWfzA6C3BwQOGMAAKg.png",
+    "repository_url": "https://github.com/qtumproject/qtum/",
+    "core_repository_url": "https://github.com/qtumproject/qtum/"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "https://twitter.com/qtumofficial"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "-"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "QTUM Foundation",
+      "entity_role": "Unknown",
+      "entity_website_url": "https://www.linkedin.com/company/qtum-foundation/about/",
+      "legal_name": "QTUM FOUNDATION LTD.",
+      "legal_address": "-",
+      "legal_jurist_country": "100 TRAS STREET #16-01 100 AM, Singapore, Singapore 079027",
+      "legal_jurist_region": "-",
+      "legal_form_code": "Limited liability company",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "-",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

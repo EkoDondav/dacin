@@ -1,0 +1,211 @@
+{
+  "token_definition": {
+    "token_name": "XRP",
+    "dacin": "DA0000ZTP5HV2R39",
+    "token_symbol": "XRP",
+    "token_symbol_other": "-",
+    "website_url": "https://ripple.com/xrp/",
+    "underlying_platform": "Ripple",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Currency Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocurrency",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Currency|Currency",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "Ripple is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company. Released in 2012, Ripple is built upon a distributed open source protocol, and supports tokens representing fiat currency, cryptocurrency, commodities, or other units of value such as frequent flier miles or mobile minutes.[2] Ripple purports to enable \"secure, instantly and nearly free global financial transactions of any size with no chargebacks.\"",
+    "token_short_desc": "-",
+    "token_labels": "Payments"
+  },
+  "token_attributes": {
+    "token_family": "Ripple",
+    "token_family_member": "Parent",
+    "token_type": "Native",
+    "is_forked_token": "FALSE",
+    "forked_type": "N/A",
+    "forked_from": "N/A",
+    "forked_by": "Stella Lumens",
+    "consensus_mechanism": "XRP Ledger Consensus Protocol",
+    "transaction_identity": "Pseudonymous",
+    "permission_type": "Public",
+    "platform_governance": "Centralized",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "FALSE",
+    "supply_model": "Mostly Bulk",
+    "genesis_funding_event": "TRUE",
+    "smart_contract_support": "FALSE",
+    "genesis_block_created": "01/01/2013 00:00:00",
+    "min_token_unit": "-",
+    "min_token_decimals": "-",
+    "license_type": "ISC License",
+    "explorer_url": [
+      "https://xrpcharts.ripple.com/#/",
+      "https://xrpscan.com",
+      "-"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA0000ZTP5HV2R39"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00J3MKBM5"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XRP"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "bulk block",
+    "ongoing_emission_model": "fixed",
+    "ongoing_emission": "FALSE",
+    "issued_supply": "100000000000",
+    "max_supply": "100000000000",
+    "locked_in_supply": "-",
+    "circulating_supply": "-",
+    "final_emission_date": "Genesis",
+    "inflation_model": "Inflationary",
+    "emission_rate": "Smooth Decay",
+    "supply_cap": "Yes",
+    "initial_block_reward": "N/A",
+    "current_block_reward": "N/A",
+    "reward_change_period": "N/A",
+    "reward_change_factor": "N/A",
+    "next_reward_change_height": "N/A",
+    "next_reward_change_date": "N/A",
+    "reward_change_freq": "N/A",
+    "last_reward_change_date": "N/A"
+  },
+  "mining_details": {
+    "hashing_mode": "-",
+    "hashing_algorithm": "-",
+    "avg_block_time": "-",
+    "avg_block_size": "-",
+    "difficulty_adjustment_period": "-",
+    "block_reward_dist": "-",
+    "mining_chips": "-"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Ripple",
+    "white_paper_url": "https://ripple.com/files/ripple_consensus_whitepaper.pdf",
+    "road_map_url": "N/A",
+    "repository_url": "https://github.com/ripple",
+    "core_repository_url": "https://github.com/ripple"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "https://www.linkedin.com/company/ripple-labs/"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "-"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "Ripple Labs",
+      "entity_role": "Developer of Ripple protocol and exchange network",
+      "entity_website_url": "https://ripple.com/company/",
+      "legal_name": "Ripple Labs Inc.",
+      "legal_address": "-",
+      "legal_jurist_country": "Delaware",
+      "legal_jurist_region": "-",
+      "legal_form_code": "Incorporated company",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "-",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}

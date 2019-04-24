@@ -1,0 +1,211 @@
+{
+  "token_definition": {
+    "token_name": "Ethereum Classic",
+    "dacin": "DA0000VBHKNXJ947",
+    "token_symbol": "ETC",
+    "token_symbol_other": "XTH",
+    "website_url": "https://ethereumclassic.org/",
+    "underlying_platform": "Ethereum Classic",
+    "token_standard": "N/A",
+    "token_address": "N/A"
+  },
+  "token_classification": [
+    {
+      "classification_org": "Dacebook Inc",
+      "classification_type": "General",
+      "classification": "Platform Token",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Dacebook-Inc",
+      "classification_type": "Invest",
+      "classification": "Cryptocommodity",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Truset",
+      "classification_type": "Brooklyn-Project",
+      "classification": "Payment|Utility",
+      "sub_classification": "-"
+    },
+    {
+      "classification_org": "Messari",
+      "classification_type": "Category/Sector",
+      "classification": "Infrastructure|Smart Contract Platform",
+      "sub_classification": "-"
+    }
+  ],
+  "token_details": {
+    "token_description": "-",
+    "token_short_desc": "-",
+    "token_labels": "Decentralized Applications"
+  },
+  "token_attributes": {
+    "token_family": "Ethereum",
+    "token_family_member": "Parent",
+    "token_type": "Native",
+    "is_forked_token": "TRUE",
+    "forked_type": "Hard",
+    "forked_from": "Ethereum",
+    "forked_by": "Ethereum",
+    "consensus_mechanism": "Proof-of-Work",
+    "transaction_identity": "Pseudonymous",
+    "permission_type": "Public",
+    "platform_governance": "Decentralized",
+    "is_fungible_token": "TRUE",
+    "is_mineable": "TRUE",
+    "supply_model": "fully algorithmic",
+    "genesis_funding_event": "FALSE",
+    "smart_contract_support": "TRUE",
+    "genesis_block_created": "30/07/2015 15:26:13",
+    "min_token_unit": "-",
+    "min_token_decimals": "-",
+    "license_type": "-",
+    "explorer_url": [
+      "http://gastracker.io",
+      "https://blockscout.com/etc/mainnet",
+      "https://etc.tokenview.com"
+    ]
+  },
+  "token_identifier": [
+    {
+      "identifier_org": "Dacebook Inc",
+      "identifier_name": "DACIN",
+      "identifer_code": "DA0000VBHKNXJ947"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "FIGI",
+      "identifer_code": "BBG00J3NG2W7"
+    },
+    {
+      "identifier_org": "Bloomberg",
+      "identifier_name": "Ticker",
+      "identifer_code": "XTH"
+    },
+    {},
+    {}
+  ],
+  "supply_details": {
+    "genesis_emission_model": "single block fork",
+    "ongoing_emission_model": "algorithmic",
+    "ongoing_emission": "TRUE",
+    "issued_supply": "-",
+    "max_supply": "230000000",
+    "locked_in_supply": "0",
+    "circulating_supply": "-",
+    "final_emission_date": "-",
+    "inflation_model": "Disinflationary",
+    "emission_rate": "Block Decay",
+    "supply_cap": "-",
+    "initial_block_reward": "5",
+    "current_block_reward": "4",
+    "reward_change_period": "5000000",
+    "reward_change_factor": "-20 %",
+    "next_reward_change_height": "10000000",
+    "next_reward_change_date": "-",
+    "reward_change_freq": "29 months",
+    "last_reward_change_date": "-"
+  },
+  "mining_details": {
+    "hashing_mode": "Single",
+    "hashing_algorithm": "Ethash",
+    "avg_block_time": "15",
+    "avg_block_size": "-",
+    "difficulty_adjustment_period": "1",
+    "block_reward_dist": "100%:Miner",
+    "mining_chips": "CPU-GPU"
+  },
+  "fork_details": {
+    "fork_date": "-",
+    "fork_ratio": "-",
+    "forked_block_height": "-",
+    "fork_reason": "-"
+  },
+  "project_details": {
+    "project_name": "Ethereum Classic",
+    "white_paper_url": "N/A",
+    "road_map_url": "https://ethereumclassic.org/roadmap/",
+    "repository_url": "https://github.com/ethereumproject",
+    "core_repository_url": "https://github.com/ethereumproject"
+  },
+  "project_members": [
+    {
+      "member_name": "-",
+      "member_role": "-",
+      "member_account_type": [
+        "-",
+        "-"
+      ],
+      "member_account_url": [
+        "-",
+        "-"
+      ]
+    }
+  ],
+  "project_community": [
+    {
+      "community_account_type": "Twitter",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "Medium",
+      "community_account_url": "-"
+    },
+    {
+      "community_account_type": "LinkedIn",
+      "community_account_url": "https://forum.ethereumclassic.org"
+    },
+    {
+      "community_account_type": "Telegram",
+      "community_account_url": "https://telegram.me/ethclassic"
+    }
+  ],
+  "entity_data": [
+    {
+      "entity_name": "Ethereum Classic Cooperative",
+      "entity_role": "Support Development of Ethereum Classic",
+      "entity_website_url": "https://www.guidestar.org/profile/32-0551158",
+      "legal_name": "Ethereum Classic Cooperative",
+      "legal_address": "-",
+      "legal_jurist_country": "636 AVENUE OF THE AMERICAS 3RD FLR NEW YORK, NY 10011 ",
+      "legal_jurist_region": "-",
+      "legal_form_code": "Non Profit (501(c)(3) non profit)",
+      "global_lei": "-",
+      "legal_direct_parent_name": "-",
+      "legal_ultimate_parent_name": "-"
+    }
+  ],
+  "funding_details": {
+    "funding_type": "-",
+    "start_date": "-",
+    "end_date": "-",
+    "num_tranches": "-",
+    "funding_currency": [
+      "ETH",
+      "BTC"
+    ],
+    "funding_amount": [
+      "-",
+      "-"
+    ],
+    "base_currency": "USD",
+    "base_currency_amount": "-",
+    "allocation_group": [
+      "Founders",
+      "Community"
+    ],
+    "allocation_percent": [
+      "-%",
+      "-%"
+    ]
+  },
+  "exchange_listing": [
+    {
+      "exchange_name": "-",
+      "status": "-",
+      "exchange_code": "-",
+      "exchange_code_api": "-"
+    }
+  ]
+}
