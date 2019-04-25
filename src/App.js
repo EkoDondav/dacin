@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 //
 //import cccy_dacin_arr from './cc_api_listing_dacin_arr_100';
 import cccy_dacin_arr from './cc_api_listing_dacin_arr_10';
-import da_rds_keys from './da_rds_keys';
+//import da_rds_keys from './da_rds_keys';
 import data_keys from './data_keys';
 import { Link, Route, BrowserRouter as Router } from 'react-router-dom';
 import * as qs from 'query-string';
@@ -396,7 +396,7 @@ class App extends Component {
     return _tns
   }
 
-
+/*
   createTableDataRef = () => {
     let table = [];
     // Outer loop to create parent
@@ -423,8 +423,6 @@ class App extends Component {
     }
     return table
   }
-
-
   createTableDataMkt = () => {
     let table = [];
     let _val_obj = this.state.data_market;
@@ -448,7 +446,7 @@ class App extends Component {
     }
     return table
   }
-
+*/
 
   createTableDataSubLoopList = () => {
     let children = [];
@@ -634,9 +632,9 @@ class App extends Component {
     let styleHeaderFixed = {
       /*position: 'fixed',*/
       /*backgroundColor: '#222',*/
-      marginTop: -20,
+      /*marginTop: -20,*/
       width: '100%',
-      zIndex: 1,
+      /*zIndex: 1,*/
       paddingBottom: 10,
       borderBottom: '1px #444 solid'
     };
@@ -856,6 +854,7 @@ class App extends Component {
         {
           console.log(_s.token_definition.dacin);
           this.state.dacin = match.match.params.tid;
+          this.state.name = _s.token_definition.token_name;
           this.state.data_cat = _s;
         }
 
@@ -933,11 +932,11 @@ class App extends Component {
             </div>
           </div>
 
-          <div className={'row'}>{this.createTableDataSubLoopList()}</div>
+          <div className={'row'}><div className={'col-md-12'}>{this.createTableDataSubLoopList()}</div></div>
 
           <div className={'row'}>&nbsp;</div>
-          <div className={'row'}><a href={match.match.params.tid + '/json'}>{'API - JSON'}</a></div>
-          <div className={'row'}><a href={match.match.params.tid + '/xml'}>{'API - XML'}</a></div>
+          <div className={'row'}><div className={'col-md-12'}><a href={match.match.params.tid + '/json'}>{'API - JSON'}</a></div></div>
+          <div className={'row'}><div className={'col-md-12'}><a href={match.match.params.tid + '/xml'}>{'API - XML'}</a></div></div>
 
           <div className="row">
             {/*
